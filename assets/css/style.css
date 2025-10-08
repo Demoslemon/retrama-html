@@ -10793,12 +10793,12 @@ ul.comment-list .th-comment-item:first-child > .th-post-comment {
 }
 
 .hero-style3 .play-btn:before, .hero-style3 .play-btn:after {
-  background-color: #FFFA84;
+  background-color: #59dd73;
 }
 
 .hero-style3 .play-btn > i {
   --icon-size: 40px;
-  background-color: #FFFA84;
+  background-color: #ffffff;
   color: var(--title-color);
 }
 
@@ -16479,7 +16479,7 @@ span.select2-selection.select2-selection--single:focus {
 .img-box7 .about-wrapp .discount-wrapp .play-btn > i {
   --icon-size: 125px;
   font-size: 30px;
-  background-color: #FFFA84;
+  background-color: var(--theme-color);
   color: var(--title-color);
 }
 
